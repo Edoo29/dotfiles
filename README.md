@@ -1,5 +1,5 @@
 ## Preview
-![WezTerm preview] (./preview/4.png "WezTerm preview")
+![WezTerm preview] (files://C:Users/edoar/Desktop/.config/preview/4.png "WezTerm preview")
 
 ## Contents
 - Neovim config
