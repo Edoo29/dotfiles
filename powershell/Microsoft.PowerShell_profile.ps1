@@ -6,7 +6,7 @@ Set-Alias ll ls
 Set-Alias vim nvim
 
 # Default location on startup
-Set-Location C:\Users\edoar\
+Set-Location C:\your\path\
 
 # Oh-my-posh config
 Import-Module posh-git
